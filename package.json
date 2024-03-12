@@ -1,0 +1,19 @@
+{
+  "name": "dpyy_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maulanaz1/dpyy_xid"
+  },
+  "keywords": [],
+  "author": "Maulanaz1",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
